@@ -1,0 +1,34 @@
+body {
+    background-color: #171a1d;
+}
+
+.header {
+    background-color: #131619;
+    border-bottom: #19869c 1px solid;
+}
+
+.embedPDF {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+#arena {
+    position : relative;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+
+    background-color : #fdbf39;
+
+}
